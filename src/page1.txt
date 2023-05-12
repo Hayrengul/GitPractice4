@@ -3,3 +3,5 @@
  I like Computer
 
  I have to finish my homework
+
+ I have git practice everyday
